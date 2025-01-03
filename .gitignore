@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables and secrets
+.env
+pyenv.cfg
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Session and uploaded files (since these are user-generated)
+session_histories/
+uploaded_files/
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
